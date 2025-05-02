@@ -38,3 +38,5 @@ out.log
 
 # round tracks plugin stuff lol
 *.round-tracks-config
+
+*.zip
