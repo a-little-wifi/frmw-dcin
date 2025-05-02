@@ -30346,7 +30346,7 @@
 		(start 115 76.6)
 		(end 120.6 76.6)
 		(stroke
-			(width 0.15)
+			(width 0.25)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -30356,7 +30356,7 @@
 		(start 117.2 77.4)
 		(end 118.4 77.4)
 		(stroke
-			(width 0.15)
+			(width 0.25)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -30376,7 +30376,7 @@
 		(start 115 77.4)
 		(end 116.2 77.4)
 		(stroke
-			(width 0.15)
+			(width 0.25)
 			(type default)
 		)
 		(layer "F.SilkS")
@@ -30396,7 +30396,7 @@
 		(start 119.375 77.4)
 		(end 120.6 77.4)
 		(stroke
-			(width 0.15)
+			(width 0.25)
 			(type default)
 		)
 		(layer "F.SilkS")
